@@ -6,7 +6,11 @@ screenshots
 screenshot
 Screenshots
 Screenshot
+Theory
 
+#Specific Files
+*.pdf
+*.exe
 
 #IDE
 *.sln
