@@ -7,6 +7,7 @@ screenshot
 Screenshots
 Screenshot
 
+
 #IDE
 *.sln
 *.o
@@ -17,3 +18,9 @@ Screenshot
 *.vcxproj.user
 *.pdb
 Debug
+
+#Cmake and Make
+CMakeLists.txt
+build
+cmake-build-debug
+
