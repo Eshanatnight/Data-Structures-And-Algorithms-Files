@@ -1,0 +1,21 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: E:/dev/2. College/Data Structures And Algorithms/Knight's_Tour/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_2b3fb.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.8.3+39993bd9d for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(5906,7): error MSB4023: Cannot evaluate the item metadata "%(FullPath)". The item metadata "%(FullPath)" cannot be applied to the path "@(_DebugSymbolsIntermediatePath->'E:\dev\2. College\Data Structures And Algorithms\Knight's_Tour\build\CMakeFiles\CMakeTmp\Debug\%(Filename)%(Extension)')". Illegal characters in path. [E:\dev\2. College\Data Structures And Algorithms\Knight's_Tour\build\CMakeFiles\CMakeTmp\cmTC_2b3fb.vcxproj]
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: E:/dev/2. College/Data Structures And Algorithms/Knight's_Tour/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_d2be9.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.8.3+39993bd9d for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(5906,7): error MSB4023: Cannot evaluate the item metadata "%(FullPath)". The item metadata "%(FullPath)" cannot be applied to the path "@(_DebugSymbolsIntermediatePath->'E:\dev\2. College\Data Structures And Algorithms\Knight's_Tour\build\CMakeFiles\CMakeTmp\Debug\%(Filename)%(Extension)')". Illegal characters in path. [E:\dev\2. College\Data Structures And Algorithms\Knight's_Tour\build\CMakeFiles\CMakeTmp\cmTC_d2be9.vcxproj]
+
+
+
